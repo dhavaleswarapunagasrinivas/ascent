@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+}
+body{
+    width: 100%;
+    background-color: lightgrey;
+    justify-content: center;
+}
+.scont{
+    position: absolute;
+    top:30%;
+    width:40%;
+    height:42vh;
+    background-color: white;
+    display: flex;
+    
+    
+}
+.cont{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.b{
+    width:52%;
+    height:42vh;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    
+       
+}
+.d{
+   margin-top: 10px;
+    width: 100%;
+    height:3vh;
+    background-color: blue;
+    border-color: white;
+    border-width: 1px;
+   
+}
+.e{
+    margin-top: 10px;
+}
+.k{
+    position: absolute;
+    top: 30%;
+    left: 17%;
+}
